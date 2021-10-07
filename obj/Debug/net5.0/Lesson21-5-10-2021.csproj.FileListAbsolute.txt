@@ -1,0 +1,16 @@
+E:\Alif_Academy\Lesson21-5-10-2021\bin\Debug\net5.0\Lesson21-5-10-2021.exe
+E:\Alif_Academy\Lesson21-5-10-2021\bin\Debug\net5.0\Lesson21-5-10-2021.deps.json
+E:\Alif_Academy\Lesson21-5-10-2021\bin\Debug\net5.0\Lesson21-5-10-2021.runtimeconfig.json
+E:\Alif_Academy\Lesson21-5-10-2021\bin\Debug\net5.0\Lesson21-5-10-2021.runtimeconfig.dev.json
+E:\Alif_Academy\Lesson21-5-10-2021\bin\Debug\net5.0\Lesson21-5-10-2021.dll
+E:\Alif_Academy\Lesson21-5-10-2021\bin\Debug\net5.0\ref\Lesson21-5-10-2021.dll
+E:\Alif_Academy\Lesson21-5-10-2021\bin\Debug\net5.0\Lesson21-5-10-2021.pdb
+E:\Alif_Academy\Lesson21-5-10-2021\obj\Debug\net5.0\Lesson21-5-10-2021.csproj.AssemblyReference.cache
+E:\Alif_Academy\Lesson21-5-10-2021\obj\Debug\net5.0\Lesson21-5-10-2021.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alif_Academy\Lesson21-5-10-2021\obj\Debug\net5.0\Lesson21-5-10-2021.AssemblyInfoInputs.cache
+E:\Alif_Academy\Lesson21-5-10-2021\obj\Debug\net5.0\Lesson21-5-10-2021.AssemblyInfo.cs
+E:\Alif_Academy\Lesson21-5-10-2021\obj\Debug\net5.0\Lesson21-5-10-2021.csproj.CoreCompileInputs.cache
+E:\Alif_Academy\Lesson21-5-10-2021\obj\Debug\net5.0\Lesson21-5-10-2021.dll
+E:\Alif_Academy\Lesson21-5-10-2021\obj\Debug\net5.0\ref\Lesson21-5-10-2021.dll
+E:\Alif_Academy\Lesson21-5-10-2021\obj\Debug\net5.0\Lesson21-5-10-2021.pdb
+E:\Alif_Academy\Lesson21-5-10-2021\obj\Debug\net5.0\Lesson21-5-10-2021.genruntimeconfig.cache
